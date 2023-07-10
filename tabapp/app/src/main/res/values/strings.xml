@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabApp</string>
+    <string name="select_activity_level">Select activity level</string>
+</resources>
